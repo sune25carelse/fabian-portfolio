@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Fabian Van Wyk",
+    "occupation": "Network Specialist / Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Fabian! You might also know me as fabbaReact. I've been coding for 1year As a Full Stack developer.I working build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained few developers across the country. Through live coaching sessions online/social platforms showing how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the Namakwa_Dev fam!",
+    "email": "fabian.vanwyk@gmail.com",
+    "phone": "0829989VIIIVIII2",
+    "address": {
+      "street": "35 frederick Str",
+      "city": "Cape Town",
+      "state": "Western Cape",
+      "zip": "W3B D3V 8000"
+    },
+    "website": "",
+    "resumedownload": "https://github.com/sune25carelse",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/fabian.vanwyk",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/fabianvanwyk",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/@fabba1892",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sune25carelse",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Cape Peninsula University of Technology",
+        "acc": "National Diploma, Information Technology",
+        "graduated": "March 2005",
+        "description": "Graduated with Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "VanWykDevs",
+        "title": "Founder and co CEO",
+        "years": "October 2021 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the Dev fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "Python",
+        "level": "35%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SLack Clone (React JS)",
+        "category": "",
+        "image": "slackapp.jpg",
+        "url": "https://slack-app-1da1a.web.app"
+      },
+      {
+        "title": "AirBnb Clone (React JS)",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": "https://airbnb-clone-8b0ef.web.app/"
+      },
+      {
+        "title": "TikTok Clone (React JS)",
+        "category": "",
+        "image": "tiktok.jpg",
+        "url": "https://tiktok-mern-5ae17.web.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Fabba is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Geraldo Van Wyk"
+      },
+      {
+        "text": "Learning with Fabba has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "TAylin Leewendaal"
+      }
+    ]
+  }
+}
